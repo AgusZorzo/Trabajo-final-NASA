@@ -1,0 +1,180 @@
+Los alumnos de la Escuela de Educación Secundaria Orientada N° 202 “Manuel Leiva de Casilda participan del
+Evento mundial EN 160 CIUDADES del 22 al 24 de abril de 2016 en Rosario
+HACKATHON DE 48 HS
+Alumnos:
+Guaristy María Paula
+Moroni Emiliano
+Gallina Ezequiel
+Zorzo Agustín
+Scagnetti Emanuel
+Gigli Conrado
+Aguilar Ayelén
+Ramirez Stefanía
+Castagna Gabriel
+
+Prof Mariana Milanés
+
+
+Un traje espacial es mucho más que un conjunto de prendas que los astronautas utilizan en los viajes espaciales: un traje espacial está totalmente equipado como si fuese una nave espacial para una persona. El nombre formal de estos trajes  que se utiliza en un trasbordador espacial y en la Estación Espacial Internacional es: Unidad de Movilidad Extravehicular (EMU en inglés).  “Extravehicular” porque se utilizan fuera del vehículo o de la nave espacial; “Movilidad” porque el astronauta puede moverse dentro del traje. El EMU  protege al astronauta de los peligros cuando circula por el espacio.
+
+
+PROYECTO MLC-202
+
+OBJETIVO: 
+Nuestro objetivo es diseñar una versión mejorada de los trajes utilizados por los astronautas, aplicando tecnología avanzada que utilice wearables de última generación; mejorando la viabilidad, el control de su salud, la relación entre compañeros y la comunicación con la base terrestre. Estos aspectos son de suma importancia para ellos, ya que se ven favorecidos tanto física como psicológicamente.
+Hemos insertado sensores, visores , cámaras, transformadores de dióxido de carbono en combustible, tecnología wearables en telas inteligentes que controlan la salud y temperatura del cuerpo, la telepresencia y el entretenimiento dentro de la nave para mejorar la calidad afectiva entre los tripulantes y su relación con los familiares.
+
+MEJORAS TÉCNICAS GENERALES
+Las reformas que se realizaron en el traje son variadas: se  aplicó un nuevo equipo de refrigeración, de telecomunicación;  nuevos visores, más livianos, dúctiles y seguros. 
+
+
+
+
+
+
+DISEÑO POR PARTES
+CASCO
+El casco es un objeto indispensable para el agente porque este le proporciona seguridad contra los micrometeoritos, presión estable por falta de atmósfera y telecomunicación. A su vez actúa como visor, proyectando el monitoreo de su salud, distancia, presiones, temperatura. Además actúa como órgano de control de la información y las necesidades del astronauta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+El visor tiene una capa de oro que protege de los rayos ultravioleta. También posee lámparas para cuando los astronautas trabajan hasta nueve horas, y necesitan iluminación extra en el amanecer o atardecer.
+
+
+
+
+
+REFORMA:  Se adaptaría la tecnología por medio de unos lentes llamados Google Glass, que  cumplirían con las funciones de: visor, panel de control, comunicación entre los compañeros tanto en el interior de la nave como en el exterior y a su vez, con la base terrestre.
+Esta misma tecnología es estudiada para ser adaptada a lentes de contactos, actuando así como una computadora, permitiendo controlar: la salud de las personas, glucosa en sangre, entre otros parámetros.
+La parte delantera del casco sería una pantalla transparente que actuaría como visor de información y que a su vez puede ser controlada con los lentes glass para su protección de rayos ultravioleta y del sol cambiando de color. 
+
+
+
+     Especificaciones técnicas de Google Glass
+Cámara de 5 megapíxeles, capaz de grabar vídeo 720p
+Batería: hasta un día de uso, aunque indican que utilizarlas con Google Hangouts o para grabar vídeo reduciría la vida útil de la batería. (Agregar bateria de repuesto)
+Almacenamiento de 16 GB sincronizados con la nube (12 GB disponibles)
+Texas Instruments OMAP 4430 SoC 1.2GHz Dual (ARMv7)
+682MB RAM "prox"
+Giroscopio de 3 ejes.
+Acelerómetro 3 ejes
+Sensor geomagnético (brújula)
+Sensores de luz ambiente y sensor de proximidad interno.
+Sistema de inducción para la transmisión del sonido. 
+La montura es ajustable.
+Actualmente se basa en Android 4.0.4 actualizaciones.
+                                
+        OPCIÓN 2: Lentes de contacto Wearables
+
+Los lentes Wearables incorporan un recubrimiento de película de polímero a sus pupilentes, el cual conduce energía a las lentes. Esto permite que se construyan circuitos eléctricos
+miniatura sobre los objetos para que funcionen como lo haría la pantalla de una computadora y sin riesgos para el usuario. 
+Esta tecnología es útil para controlar el estado de salud del agente como por ejemplo: un sensor que mida la glucosa en sangre, avanzando hasta crear pantallas tecnológicas como panel de control.
+
+CAMARA GOPRO 
+
+Las cámaras GOPRO trabajan en alta definición, son resistentes a golpes y se emplean para la práctica de  deportes extremos.
+Estas cámaras graban, capturan imágenes en calidad alta,  en 360° y son capaces de fotografiar ligeramente.  Se pueden colocar en cascos, soportes, y demás bases planas.
+
+REFORMA: Permitirá a los astronautas grabar sus paseos espaciales, y controlar todo tipo de objetos extraños o micrometeoritos. Además el compañero puede visualizar que el tripulante se encuentra bien por medio de una pantalla en los lentes o en el visor. 
+Esto es fundamental  ya que,  el agente debe estar siempre atento a los movimientos de su compañero para asegurarse de que se encuentre bien. Esta cámara irá acoplada al casco.
+
+ILUMINACIÓN:  A los lados del casco,  se colocarán  linternas LED de alta potencia para mejorar la calidad del trabajo.  
+
+
+
+
+
+
+
+TORSO
+El traje espacial es el sistema primario de apoyo vital.  Un  módulo de control, con pantalla y otros accesorios para que la tripulación realice caminatas en el espacio, teniendo apoyo vital de emergencia. Este traje los protege  de las condiciones exteriores fatales (calor, frío, radiación electromagnética ultravioleta, ausencia de presión atmosférica, etc.). Sin la presencia de la atmósfera terrestre para filtrar la luz solar, el lado del traje espacial que está frente al sol puede alcanzar temperaturas de hasta 121°C, el otro lado, expuesto a la oscuridad, puede llegar a –157°C.
+
+
+
+Este equipo actúa como medio de seguridad para todo su organismo.  Este traje  cuenta con un panel de botones donde cada uno cumple una determinada función. (Por ejemplo: forzar la liberación de CO2, comunicar, etc.).
+En el torso también se encuentran las herramientas para reparar toda falla cuando salen a hacer una caminata espacial; así como también el sistema de seguridad que lo mantiene suspendido a la nave por medio de sogas.
+
+
+
+  
+
+
+
+
+
+Usar Energía Solar Para Convertir CO2 en Combustible
+Unos químicos han demostrado la viabilidad de aprovechar la luz del Sol para transformar un gas de efecto invernadero en un producto útil. Ya han desarrollado un prototipo del dispositivo que captura energía solar, la convierte en energía eléctrica, y "divide" el dióxido de carbono en monóxido de carbono (CO) y oxígeno.
+
+                    El trabajo ha sido realizado por Clifford Kubiak y Aaron Sathrum, de la    Universidad    de California en San Diego.
+
+REFORMA:  La reforma que realizamos es en la apariencia, con un nuevo
+tablero de botones, donde se incorporará una nueva tecla para transformar el oxígeno  en combustible necesario para la propulsión y el gasto de energía del traje.
+
+                  CAPAS INTERNAS/EXTERNAS DEL TRAJE
+El traje cuenta con diferentes capas que cumplen diferentes funciones para mantener el bienestar del astronauta y el òptimo funcionamiento del equipo. Las funciones primordiales del mismo son: mantener la temperatura corporal, informar el estado de salud del astronauta y la protección contra micrometeoritos.
+Dentro de la nave también se puede usar este tipo de ropa inteligente, ya que
+ monitorea al agente física y médicamente; además ofrece un bienestar extra causado por la absorción de olores , sudor, y control de temperatura ambiente etc. 
+
+CAPA 1: La primera capa de nuestro traje se adhiere al cuerpo y controla el estado de salud del usuario. En sus fibras hay diminutos sensores que monitorean las funciones orgánicas y envían los datos obtenidos a través de fibras ópticas y transistores a una computadora situada en la base terrestre. También posee sensores de ubicación y movimiento que realiza el astronauta.  Al ser de un material elástico y flexible le permite realizar movimientos variados y libres.
+
+Ropa inteligente:
+Este tipo de ropa puede ser utilizada tanto para fines deportivos como médicos. Pero también podrían adaptarse a usos  astronauticos si se la equipa con sensores que informen sobre ubicación o movimientos del usuario en el espacio.
+Fuente: (Defense Advanced Research Projects Agency), es la sección de Investigación y Desarrollo del Departamento de Defensa de los Estados Unidos, que participó también del diseño de la prenda.
+Una joven egresada del célebre Instituto de Tecnología de Massachusetts, Maggie Orth, dirige la empresa International Fabric Machines,  mezclando arte, bits y diseño. Lo suyo es wearable computing, algo así como "computación para usar".
+Entre sus múltiples creaciones, Orth creó zapatillas que cambian de color a medida que el corredor recorre distancias. 
+
+Secretos invisibles
+"La ropa inteligente en algunos casos combina la ingeniería de tejidos con la microelectrónica, con la incorporación de sensores que cumplen distintas funciones (telefonía, control remoto, alarma de seguridad, diversión, etcétera) y tienen la posibilidad de que la ropa se pueda lavar, ya sea a mano o a máquina".
+Las fibras incorporan nanotecnología, es decir, partículas muy pequeñas que cumplen alguna función: pueden ser antimicrobianas, para evitar la aparición de las bacterias que causan olor a transpiración; de protección a los rayos UV o de cerámica, que acumulan calor durante el día y lo van liberando de noche; o para climas extremos.
+La tecnología dry fit, que envía rápidamente la humedad de la transpiración hacia el exterior y mantiene seca a la persona; las telas antimancha, que imitan el efecto de la hoja del loto, que a pesar de su apariencia pulida tiene una nanosuperficie muy rugosa, que hace que las sustancias no penetren y evita así la suciedad".
+En las aplicaciones tecnológicas que pueden incorporarse sobre las telas, "hay procesos que utilizan microcápsulas de parafinas especiales que permiten, por ejemplo, fabricar ropa para climas muy fríos, que mantiene el cuerpo calefaccionado a una temperatura estable. También hay micropartículas para que las telas no absorban olores; o tratamientos con sistemas de gases que modifican la superficie de la tela para volverla más o menos hidrófila o impermeable.
+
+CAPA 2: La mayor parte de la radiación peligrosa en el espacio se compone de partículas cargadas eléctricamente: electrones y protones de alta velocidad procedentes del Sol, y masivos núcleos atómicos cargados positivamente de las distantes supernovas.
+El traje del astronauta debe tener un material que los aísle de la radiación y al mismo tiempo les permita variar la forma en que conduce e irradia el calor. Es necesario que el astronauta pueda perder calor como lo hace normalmente por el sudor, pero que aun así se sienta cómodo. El traje que usan hoy día, es pesado e incómodo, y su temperatura se regula por movimientos de líquidos.
+Este consta de varios módulos: el torso superior rígido que cubre el pecho, el torso inferior que cubre las piernas y pies, el casco, el visor extravehicular, los brazos y guantes.
+
+CAPA 3: La primera se llama Bladder y está constituida por nylon recubierto con uretano, es decir,  funciona como un globo y es la parte más crítica del traje espacial ya que  se encargada de  mantener y controlar que el traje tenga aire en su interior. Es muy importante que siempre esté protegida puesto que sin aire no podrían sobrevivir los astronautas.
+
+CAPA 4: Es la capa de restricción formada por Dacrón, una tela cubierta con elásticos e hilos que moldean la figura humana del traje. Esto es así porque al ser bladder una capa llena de aire, podría inflarse como lo hace un globo, y la capa de restricción fuerza la forma humana para que el astronauta pueda manipular objetos y moverse adecuadamente.
+
+CAPA 5: Luego siguen varias capas térmicas de Mylar, un polímero termoplástico que ayuda a controlar la temperatura del astronauta y actúa también como protección extra ante una colisión de objetos orbitando a altas velocidades, “cuando algo está flotando en el espacio, nos imaginamos que es un simple objeto sin velocidad, pero en realidad sus velocidades son altísimas como una bala. Los astronautas y nosotros monitoreando desde la Tierra, tenemos que estar muy atentos con  los objetos que puedan encontrarse”.
+
+CAPA 6:
+Finalmente, la capa exterior de Ortho Fabric está conformada por los materiales Gore-Tex, Kevlar y Nomex. Son los materiales encargados de bloquear los rayos ultravioleta y proteger al astronauta. Estas capas están recubiertas con teflón, permitiendo que el material resbale y logre portarse como una tela normal.
+
+SUBSISTEMA DE RESPIRACIÓN:
+El subsistema primario de soporte de vida (PLSS, por sus siglas en inglés), una especie de mochila que resguarda el oxígeno de los astronautas y que logra eliminar el dióxido de carbono exhalado por los mismos en el proceso de respiración. Otorga electricidad al traje y la ventilación necesaria para que el oxígeno llegue al astronauta.
+
+BOTAS
+Las botas si bien pueden tener el mismo diseño también se incorpora la tecnología wearables y de textil inteligente como por ejemplo el sistema “Omni Wick Evap” de “Hidroabsorción acelerada”.
+Del mismo modo que también se pueden encontrar tecnologías específicas en los calzados, donde se ofrece el “Omni Grip” que garantiza “Agarre sobre cualquier terreno” el sistema “Techlife” de “Apoyo y amortiguación ligeros” combinado con el sistema “Omni Shield” diseñado para “Resistir agua y suciedad manchas” o las protectivas “Omni Wind Block” como “Cortavientos (rompevientos) que protejen de la presión y el movimiento además permite liberar transpiración” y el sistema “Omni Shade” recomendado por los especialistas para personas con problemas de piel sensible con “Protección Solar”. 
+La “Omni Heat” es una tecnología que te ayuda a “Producir tu propio calor”. Y la “OMNI-HEAT® ELECTRIC" es la tecnología de Columbia Sportswear que te proporciona calor cuando lo necesitas, pues tiene la capacidad de calentarse con sólo pulsar un botón.
+El sistema brinda calor instantáneo mediante un avanzado sistema electrónico, que garantiza que estarás abrigado y cómodo durante horas, incluso en las condiciones de extremo frío. Trabaja con una batería y coneccion uSB con una autonomía de 16 hs
+
+GUANTES
+Sería importante utilizar la misma tecnología que las Botas
+
+
+
+
+TALADRO CON ROTOR DE ELECCIÓN DE HERRAMIENTA
+
+Las herramientas en el espacio son tecnológicas, diseñamos un modelo de taladro con un rotor en la punta, donde allí hay un aro con distintas herramientas que pueden utilizar, por ejemplo, destornilladores, tubos, etc.
+
+Este taladro mejora y actúa eficientemente a la hora de quitar una parte dañada.
+
+¿Cómo funciona?
+
+El usuario al salir de la nave, esta herramienta puede ir sostenida en el traje. Al momento de utilizarla este utiliza energía por medio de una batería. 
+El taladro al tener un rotor en su punta el astronauta al realizar un giro para buscar su herramienta necesaria, se hace manualmente o puede adaptarse botones para esto.
+Es decir, el agente tomando este acople circular girando su muñeca puede cambiar fácilmente las herramientas.
