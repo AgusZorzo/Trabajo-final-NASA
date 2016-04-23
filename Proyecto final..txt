@@ -1,0 +1,48 @@
+--Los alumnos de la Escuela de Educación Secundaria Orientada N° 202 “Manuel Leiva de Casilda participan del
+Guaristy María Paula, Moroni Emiliano, Gallina Ezequiel, Zorzo Agustín, Scagnetti Emanuel, Gigli Conrado, Aguilar Ayelén, Ramirez Stefanía, Castagna Gabriel, Gabriela Bazzani , Mariana Milanés
+PROYECTO MLC-202
+
+--OBJETIVO: 
+Nuestro objetivo es diseñar una versión mejorada de los trajes utilizados por los astronautas, aplicando tecnología avanzada que utilice wearables de última generación; mejorando la viabilidad, el control de su salud, la relación entre compañeros y la comunicación con la base terrestre. Estos aspectos son de suma importancia para ellos, ya que se ven favorecidos tanto física como psicológicamente.
+Hemos insertado sensores, visores (ductiles ylivianos) , cámaras, transformadores de dióxido de carbono en combustible, tecnología wearables en telas inteligentes que controlan la salud y temperatura del cuerpo, la telepresencia y la calidad afectiva entre los tripulantes.
+
+--MEJORAS TÉCNICAS GENERALES
+CASCO
+El casco actúa como visor, con polarizado protector de rayos uv controlado digitalmente con los lentes oculares con wearables que actuan como una computadora , con ellos proyectan el monitoreo de su salud(como glucosa en sangre), distancia, presiones, temperatura. Esta informacion es enviada a la tierra .
+Ademas tienen sensores geomagneticos (brujula) sensores de luz y proximidad interno, giroscopio de 3 ejes, sensores de transmision de sonido.
+
+
+--Caracteristicas de los lentes:
+Los lentes Wearables incorporan un recubrimiento de película de polímero a sus pupilentes, el cual conduce energía a las lentes. Esto permite que se construyan circuitos eléctricos
+miniatura sobre los objetos para que funcionen como lo haría la pantalla de una computadora y sin riesgos para el usuario. 
+Ademas el casco tendra una  cámara que graban, capturan imágenes en calidad alta,  en 360° y son capaces de fotografiar . Permitirá a los astronautas grabar sus paseos espaciales, y controlar todo tipo de objetos extraños o micrometeoritos. El compañero puede visualizar que el tripulante se encuentra bien por medio de una pantalla en los lentes o en el visor.
+A los lados del casco,  se colocarán  linternas LED de alta potencia para mejorar la calidad del trabajo.  
+TORSO
+Capa 1: El traje espacial es el sistema primario de apoyo vital. Utilizamos telas inteligentes con tecnologia wearables. Un  módulo de control, con pantalla y otros accesorios para que la tripulación realice caminatas en el espacioa. Este traje los protege  de las condiciones exteriores fatales (calor, frío, radiación electromagnética ultravioleta, ausencia de presión atmosférica, etc.). Sin la presencia de la atmósfera terrestre para filtrar la luz solar, el lado del traje espacial que está frente al sol puede alcanzar temperaturas de hasta 121°C, el otro lado, expuesto a la oscuridad, puede llegar a –157°C.
+Tambien como optimizador de movimientos debido a su diseño  con telas elasticas ductiles situadas en lugares estrategicos de movimiento y proteccion.
+
+  
+--Secretos invisibles
+Las fibras incorporan nanotecnología, es decir, partículas muy pequeñas que cumplen la función antimicrobianas, para evitar la aparición de las bacterias que causan olor a transpiración; de protección a los rayos UV o de cerámica, que acumulan calor durante el día y lo van liberando de noche, o para climas extremos.
+La tecnología dry fit, que envía rápidamente la humedad de la transpiración hacia el exterior y mantiene seca a la persona,las telas antimancha. Mantienen el cuerpo calefaccionado a una temperatura estable. También hay micropartículas para que las telas no absorban olores; o tratamientos con sistemas de gases que modifican la superficie de la tela para volverla más o menos hidrófila o impermeable.
+-CAPA 2: 
+La primera es llamada bladder constituida por nylon recubierto con uretano, es como un globo y es la parte más crítica del traje espacial porque es lo que mantiene y controla que el traje tenga aire en su interior. Es muy importante que siempre esté protegida puesto que sin aire no podrían sobrevivir los astronautas El traje del astronauta, debe tener un material que los aísle de la radiación y al mismo tiempo les permita variar la forma en que conduce e irradia el calor. Queremos que el astronauta pueda perder calor como lo hace normalmente por el sudor, pero que aun así se sienta cómodo.
+-Capa 3:  Esta hecha de una tela protectora .
+-En el torso también se encuentran las herramientas para reparar toda falla cuando salen a hacer una caminata espacial; así como también el sistema de seguridad que lo mantiene suspendido a la nave por medio de sogas
+Mochila: Usar Energía Solar Para Convertir CO2 en Combustible ( Ver archivo adjunto. Han desarrollado un prototipo del dispositivo que captura energía solar, la convierte en energía eléctrica, y "divide" el dióxido de carbono en monóxido de carbono (CO) y oxígeno.
+Un tablero en el traje  de botones, donde se incorporará una nueva tecla para transformar el oxígeno  en combustible necesario para la propulsión y el gasto de energía del traje.
+-CAPA 4: Posterior a esta, sigue una serie de varias capas térmicas de Mylar, un polímero termoplástico que ayuda a controlar la temperatura del astronauta y actúa también como protección extra a cualquier colisión de objetos orbitando a altas velocidades con los astronautas, “cuando algo está flotando en el espacio, nos imaginamos que es un simple objeto sin velocidad, pero en realidad sus velocidades son altísimas como una bala. Los astronautas y nosotros monitoreando desde la Tierra, tenemos que ser muy vigilantes en cuanto a objetos que puedan encontrarse”, añadió.
+-CAPA 5: Finalmente, la capa exterior de Ortho Fabric está conformada por los materiales Gore-Tex, Kevlar y Nomex. Podemos así rebotar los rayos ultravioleta y proteger al astronauta. Esas capas están cubiertas con teflón que permiten que el material se pueda resbalar y logre portarse como una tela normal.
+SUBSISTEMA DE RESPIRACIÓN:
+El subsistema primario de soporte de vida (PLSS, por sus siglas en inglés), una especie de mochila que resguarda el oxígeno de los astronautas y que logra eliminar el dióxido de carbono exhalado por los mismos en el proceso de respiración. Otorga electricidad al traje y la ventilación necesaria para que el oxígeno llegue al astronauta.
+BOTAS
+-Las botas si bien pueden tener el mismo diseño también se incorpora la tecnología wearables y de textil inteligente como por ejemplo el sistema “Omni Wick Evap” de “Hidroabsorción acelerada”. Se pueden encontrar tecnologías específicas en los calzados, donde se ofrece el “Omni Grip” que garantiza “Agarre sobre cualquier terreno” el sistema “Techlife” de “Apoyo y amortiguación ligeros” combinado con el sistema “Omni Shield” diseñado para “Resistir agua, suciedad y manchas” o las protectivas “Omni Wind Block” como “Cortavientos (rompevientos) que protejen de la presión y el movimiento además permite liberar transpiración” y el sistema “Omni Shade“ Protección Solar”. 
+GUANTES
+Sería importante utilizar la misma tecnología que las Botas
+
+--TALADRO CON ROTOR DE ELECCIÓN DE HERRAMIENTA
+Las herramientas en el espacio son tecnológicas, diseñamos un modelo de taladro con un rotor en la punta, donde allí hay un aro con distintas herramientas que pueden utilizar, por ejemplo, destornilladores, tubos, etc.
+Este taladro mejora y actúa eficientemente a la hora de quitar una parte dañada.¿Cómo funciona?
+El usuario al salir de la nave, esta herramienta puede ir sostenida en el traje. Al momento de utilizarla este utiliza energía por medio de una batería. 
+El taladro al tener un rotor en su punta el astronauta al realizar un giro para buscar su herramienta necesaria, se hace manualmente o puede adaptarse botones para esto.
+Es decir, el agente tomando este acople circular girando su muñeca puede cambiar fácilmente las herramientas.
