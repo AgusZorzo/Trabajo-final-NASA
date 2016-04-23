@@ -1,0 +1,17 @@
+--‘’Enko promete darle "alas" a las zapatillas. La propuesta incluye una base amortiguada y con resortes que despega el pie del piso y busca evitar los golpes bruscos y aumentar la velocidad’’
+-Con estas zapatillas podemos modificarlas un poco e implementarlas en el traje, de modo que se puedan adaptar a los diferentes terrenos y gravedades.
+
+--‘’Las medias Owlet para recién nacidos avisan a través de una aplicación la temperatura y los signos vitales del bebé mientras descansa’’
+-Se podría implementar algo así en el interior y el exterior del traje, de modo que muestre la temperatura en la pantalla anteriormente mencionada, para estar al tanto de la temperatura tanto en el traje como en el exterior.
+
+--Hay pulseras que se usan para medir la presión, de las cuales podríamos incorporar los chips en el traje para que se pueda ver la frecuencia cardiaca del individuo y saber cuándo hay un pico de presión.
+
+--“Así surgió la idea de hacer un dispositivo wearable no invasivo y fácilmente adaptable a la mano del bebé, que cuando detecta una disminución de la oxigenación en sangre’’.
+-Se puede usar ese guante adaptado al traje para medir el oxigeno en sangre por si falla el sistema de oxigenación, y tener una reserva para esos casos.
+
+--Tambien queremos implementar unas gafas de realidad virtual con las que la persona pueda hablar con su familia y poder sentirse mas cercano teniendo el mayor realismo posible.
+
+-HTC Vive es un casco de realidad virtual que está siendo desarrollado por HTC y Valve. El dispositivo está diseñado para utilizar el espacio en una habitación y sumergirse en un mundo virtual en el que se permite al usuario caminar y utilizar controladores para interactuar con objetos virtuales.
+
+HTC afirma que el Vive tiene una frecuencia de actualización de 90 Hz. El dispositivo utiliza dos pantallas, una para cada ojo, cada una con una resolución de 1080 x 1200. Utiliza más de 70 sensores, incluyendo un giroscopio MEMS, acelerómetros y sensores láser, y está hecho para funcionar en un área de seguimiento de 4.6 metros por 4.6 metros, teniendo una precisión de menos de un milímetro.9 El sistema de seguimiento, llamado "Lighthouse", fue diseñado por Alan Yates y utiliza fotosensores para el seguimiento de los objetos; para evitar problemas de oclusión el Vive combina dos Lighthouses que barren todo un espacio con láseres de luz estructurada.
+La cámara frontal permite detectar cualquier objeto, estático o en movimiento, en un área; Esta función sirve también como sistema de seguridad, mostrando el mundo real para evitar que los usuarios choquen con objetos.
