@@ -1,0 +1,24 @@
+--Nuestro objetivo es diseñar un traje espacial que mejore la calidad del astronauta. Todo esto para que esté mejor conectado, para que tenga mejor relación con los compañeros 
+
+
+--Un traje espacial debe desempeñar diversas funciones para que su ocupante permanezca cómodo y seguro. Debe proveer:
+-	Una presión interna estable. Esta puede ser menor que la presión atmosférica de la tierra, y por eso normalmente no es necesario llevar nitrógeno en el traje. Una menor presión permite una mayor movilidad para su ocupante, pero conlleva con la posibilidad de que ocurra un mal de descompresión.
+-	Movilidad. La movilidad esta normalmente opuesta a la presión del traje. La movilidad también está dada por las uniones del traje.
+-	Oxígeno respirable. La circulación de oxígeno respirable está controlada por el Sistema Primario de Soporte Vital.
+-	Regulación de la temperatura. Distinto a la tierra, donde el calor puede ser transferido por convección en la atmósfera, en el espacio el calor puede perderse solo por radiación o por conducción con los objetos en contacto directo con el traje. Como la temperatura en el espacio puede variar considerablemente, la temperatura del traje está regulada por ropa de Enfriamiento Líquido, mientras que la temperatura interior del traje está regulada por Sistema Primario de Soporte Vital.
+-	Escudo contra la radiación ultravioleta. 
+-	Escudo limitado contra otro tipo de radiaciones.
+-	Protección contra micro meteoritos, algunos viajando a velocidades de hasta 27.000 kilómetros por hora, proporcionados por una capa resistente al punzado, que es la parte más externa del traje. La experiencia ha demostrado que la mayor probabilidad de exposición se produce cerca del campo gravitatorio de un satélite natural o planeta, por lo que la propuesta se emplea por primera vez en los trajes de la misión lunar Apolo.3
+-	Medios para maniobrar, arnés y líneas de anclaje/liberación a la nave espacial.
+-	Sistemas de telecomunicación.
+-	Formas para el cómodo almacenamiento de comida, agua y bebidas isotónicas.
+-	Sistema de gestión de desechos (denominado Body Waste Management System en la jerga de la NASA) consistente en un recolector de orina (Urine Collection Device, UCD) y otro de heces (Maximum Absorbency Garment, MAG)
+
+
+--Solucionar los siguientes problemas de los trajes espaciales:
+Alto coste: Pese a lograr reducciones en este campo gracias a la experiencia, el precio de cada uno es algo que ha demostrado ser muy difícil de solucionar. Se podría conseguir fabricándolos en serie; pero muchos componentes debe ser confeccionados a medida.
+Tiempo para entrar y salir: La cantidad y la precisión de ajustes que necesita el traje, lo voluminoso y delicado de sus componentes y todos las comprobaciones necesarias hacen que la operación de vestirse pueda superar la media hora o incluso más.
+Incomodidad: Pese a los esfuerzos el traje espacial no deja de ser un globo hinchable, lo que lo vuelve grande y aparatoso. Se han estudiado trajes de formas duras y elásticas; pero por el momento no son una alternativa. También resulta muy difícil de resolver la sensibilidad, sobre todo en las manos.
+Peso: El traje debido a sus múltiples partes pesa mucho por lo que los astronautas deben estar en buena forma física durante los entrenamientos.
+
+
